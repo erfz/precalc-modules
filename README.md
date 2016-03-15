@@ -1,2 +1,2 @@
 # math
-Toying with math functions (java and ruby)
+Toying with math (java and ruby)
