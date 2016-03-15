@@ -1,2 +1,11 @@
 # math
-Toying with math (java and ruby)
+Precalculus Modules (java)
+
+Contains:
+  Vector operations
+  Angle operations
+  
+To do:
+  Exact expressions
+  Matrices
+  Complex number operations (?)
