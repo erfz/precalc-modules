@@ -2,10 +2,10 @@
 Precalculus Modules (java)
 
 Contains:
-  Vector operations
+  Vector operations,
   Angle operations
   
 To do:
-  Exact expressions
-  Matrices
+  Exact expressions,
+  Matrices,
   Complex number operations (?)
